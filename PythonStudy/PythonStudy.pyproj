@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f0bf5079-aa97-4dcf-8e85-17c6a84e67be</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonStudy.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

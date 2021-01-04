@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonStudy", "PythonStudy\PythonStudy.pyproj", "{F0BF5079-AA97-4DCF-8E85-17C6A84E67BE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F8DAF2B-6E16-427D-9CE7-D3A806F23836}"
+	ProjectSection(SolutionItems) = preProject
+		PythonStudy\F1_quadratic.py = PythonStudy\F1_quadratic.py
+		PythonStudy\F2_power.py = PythonStudy\F2_power.py
+		PythonStudy\F3_higher_order_func.py = PythonStudy\F3_higher_order_func.py
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
